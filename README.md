@@ -1,5 +1,8 @@
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90&animation=twinkling)
+
 # Hyerin Ju <img src="https://github.com/jhr1494/jhr1494/blob/main/hello.gif?raw=true" width="25px">
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhr1494&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
