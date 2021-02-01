@@ -15,6 +15,14 @@
 ## Motto 🤹‍♀️
 it always seems impossible until it's done
 
+## Languages 👩‍💻
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhr1494&layout=compact)](https://github.com/jhr1494)
+
+
 ## Interest 👀
 - Relationships
 - Web Development
+
+
+
+
