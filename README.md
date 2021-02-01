@@ -24,7 +24,13 @@ it always seems impossible until it's done
 - Relationships
 - Web Development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhr1494&layout=compact)](https://github.com/jhr1494)
+  <a href="https://github.com/jhr1494">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhr1494&show_icons=true&theme=dracula" />
+  </a>
+  <br>
+  <a href="https://github.com/jhr1494">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhr1494&layout=compact" />
+  </a>
 
 
 
