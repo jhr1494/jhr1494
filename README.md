@@ -24,6 +24,8 @@ it always seems impossible until it's done
 - Relationships
 - Web Development
 
+##
+
   <a href="https://github.com/jhr1494">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhr1494&show_icons=true&theme=dracula" />
   </a>
